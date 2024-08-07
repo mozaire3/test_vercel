@@ -15,6 +15,8 @@
 
 <template>
     <h1>HELLO WORD</h1>
+    <h2>bonsoir</h2>
+
 
 </template>
 
